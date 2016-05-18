@@ -1,0 +1,14 @@
+blanktest.bmp 1.06218
+droid_1.bmp 0
+droid_2.bmp 0.246456
+droid_3.bmp 0.515479
+ewok.bmp 0.792076
+kenobi.bmp 0.7036
+yoda.bmp 0.858815
+blanktest.bmp 1.06218
+droid_1.bmp 0
+droid_2.bmp 0.246456
+droid_3.bmp 0.515479
+ewok.bmp 0.792076
+kenobi.bmp 0.7036
+yoda.bmp 0.858815

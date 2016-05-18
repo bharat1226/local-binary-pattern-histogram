@@ -1,0 +1,5 @@
+﻿  LBPhistogram.cpp
+c:\users\bhara\documents\visual studio 2015\projects\lbphistogram\filter.h(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhara\documents\visual studio 2015\projects\lbphistogram\filter.h(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\bhara\documents\visual studio 2015\projects\lbphistogram\filter.h(215): warning C4018: '<': signed/unsigned mismatch
+  LBPhistogram.vcxproj -> C:\Users\bhara\documents\visual studio 2015\Projects\LBPhistogram\Debug\LBPhistogram.exe
